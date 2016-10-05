@@ -6,4 +6,4 @@
 * Item 2
 * Item 3
 * Another *item* has been added
-* And a link to [http://www.google.com](Google "Test title")
+* And a link to [Google](http://www.google.com/ "Test title")
